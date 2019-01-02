@@ -5,7 +5,7 @@ These design files are located under design_files/ for the TinyCircuits ASD2614 
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-gyro.html
+For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tinycircuits.com/collections/sensors/products/gyroscope-tinyshield
 
 
 
